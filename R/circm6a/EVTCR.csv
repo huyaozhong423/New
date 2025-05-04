@@ -1,0 +1,217 @@
+﻿circRNA_name,riboCIRC_ID,circBase_ID,Genome position,Genome assembly,Strand,Transcript,Start codon,cORF length,Species,Experimental evidence,PMID/DOI
+circHER2,None,hsa_circ_0007766,chr17:39708320-39710481,hg38,'+,NM_001005862,ATG,103,Homo sapiens/Breast cancer,Exogenous tagging; Antibody detection; MS data supporting,32917240
+circSfl,None,dme_circ_0001693,chr3L:6523029-6524096,dm6,'+,NM_079222,ATG,199,Drosophila melanogaster,Endogenous tagging; Exogenous tagging,32592682
+circABeta-a,None,hsa_circ_0007556,chr21:27264033-27284274,hg19,'-,NM_000484,ATG,175,Homo sapiens,Exogenous tagging; Antibody detection; MS data supporting,33003364
+circFNDC3B,hsa_circFNDC3B_003,hsa_circ_0006156,chr3:171965322-171969331,hg19,'+,NM_022763,ATG,218,Homo sapiens/Colon cancer,Exogenous tagging,32241279
+circBeta-catenin,None,hsa_circ_0004194,chr3:41265511-41268843,hg19,'+,NM_001904,ATG,370,Homo sapiens/Liver cancer,Exogenous tagging; Antibody detection; MS data supporting,31027518
+circAKT3,None,hsa_circ_0017250,chr1:243776972-243828185,hg19,'-,NM_005465,ATG,174,Homo sapiens/Glioblastoma,Exogenous tagging; Antibody detection; MS data supporting,31470874
+circPPP1R12A,None,hsa_circ_0000423,chr12:80180153-80183460,hg19,'-,NM_002480,ATG,73,Homo sapiens,Exogenous tagging,30925892
+circFBXW7,hsa_circFBXW7_001,hsa_circ_0001451,chr4:153332454-153333681,hg19,'-,NM_033632,ATG,185,Homo sapiens/Glioblastoma,Exogenous tagging; Antibody detection,28903484
+circPINTexon2,None,hsa_circ_0082389,chr7:130792478-130793562,hg19,'-,NR_015431,ATG,87,Homo sapiens/Glioblastoma,Exogenous tagging; Antibody detection; MS data supporting,30367041
+circSHPRH,None,hsa_circ_0001649,chr7:130792478-130793562,hg38,'-,NM_173082,ATG,146,Homo sapiens,Exogenous tagging; MS data supporting,29343848
+circZNF609,hsa_circZNF609_001,hsa_circ_0000615,chr15:64791491-64792365,hg19,'+,NM_015042,ATG,250,Homo sapiens,Exogenous tagging,28344082
+circMbl,dme_circmbl_001,dme_circ_0001328,chr2R:13162914-13163568,dm3,'+,NM_001274119,ATG,65,Drosophila melanogaster/ brain tissue,Exogenous tagging; Antibody detection,28344080
+circCdi,dme_circcdi_001,None,chr3R:14913126-14914022,dm3,'-,NM_001260262,ATG,158,Drosophila melanogaster/S2 cells,Exogenous tagging,28344080
+circPde8,dme_circPde8_001,None,chr2R:19552816-19553558,dm3,'+,NM_137970,ATG,122,Drosophila melanogaster/S2 cells,Exogenous tagging,28344080
+circNCX1,None,None,chr17:81373105-81738387,Unknown,Unknown,Unknown,ATG,602,Mus musculus,Antibody detection,10075718
+circPSAP,None,hsa_circ_0018720,chr10:73585593-73591008,hg19,'-,NM_001042465,ATG,INF,Homo sapiens,Exogenous tagging; MS data supporting,10.1101/473207
+circPFAS,None,hsa_circ_0042009,chr17:8157176-8157619,hg19,'+,NM_012393,ATG,INF,Homo sapiens,Exogenous tagging; MS data supporting,10.1101/473207
+circABHD12,None,hsa_circ_0059658,chr20:25282854-25284264,hg19,'-,NM_001042472,NTG,INF,Homo sapiens,Exogenous tagging; MS data supporting,10.1101/473207
+HPV16circE7,None,None,NC_001526:7451-16,HPV genome,'+,NC_001526,ATG,98,CaSki cervical carcinoma,Exogenous tagging; Antibody detection,31127091
+circCDR1-AS,None,hsa_circ_0001946,chrX:140783174-140784659,hg38,'+,NM_004065,ATG,151,Homo sapiens/Heart,MS data supporting,31155234
+circASXL1,hsa_circASXL1_001,hsa_circ_0001136,chr20:32366383-32369123,hg38,'+,NM_001164603,ATG,INF,Homo sapiens/Heart,MS data supporting,31155234
+circKIAA1429,hsa_circVIRMA_001,hsa_circ_0006896,chr8:94537102-94538346,hg38,'-,NM_015496,ATG,84,Homo sapiens/Heart,MS data supporting,31155234
+circCSNK1G3,hsa_circCSNK1G3_001,hsa_circ_0001522,chr5:123545416-123557564,hg38,'+,NM_001044723,ATG,108,Homo sapiens/Heart,MS data supporting,31155234
+circANKH,None,hsa_circ_0003057,chr5:14741826-14758598,hg38,'-,NM_054027,ATG,201,Homo sapiens/Heart,MS data supporting,31155234
+circHP1BP3,None,hsa_circ_0002238,chr1:21091869-21100103,hg19,'-,NM_016287,ATG,INF,Homo sapiens,MS data supporting,28281539
+circTM9SF3,None,hsa_circ_0019290,chr10:98287787-98290365,hg19,'-,NM_020123,ATG,48,Homo sapiens,MS data supporting,28281539
+circGCN1L1,None,hsa_circ_0028803,chr12:120593395-120599387,hg19,'-,NM_006836,ATG,INF,Homo sapiens,MS data supporting,28281539
+circATP5H,None,hsa_circ_0045587,chr17:73035303-73038754,hg19,'-,NM_006356,ATG,INF,Homo sapiens,MS data supporting,28281539
+circMYO15B,None,hsa_circ_0000802,chr17:73584563-73584911,hg19,'-,NR_003587,ATG,INF,Homo sapiens,MS data supporting,28281539
+circCUL1,None,hsa_circ_0082828,chr7:148456395-148483691,hg19,'+,NM_003592,ATG,INF,Homo sapiens,MS data supporting,28281539
+circCDK14,None,hsa_circ_0008645,chr7:90355880-90419967,hg19,'+,NM_012395,ATG,161,Homo sapiens,MS data supporting,28281539
+circTMEM245,hsa_circTMEM245_002,hsa_circ_0087938,chr9:111868787-111870850,hg19,'-,NM_032012,ATG,103,Homo sapiens,MS data supporting,28281539
+circDGKB,None,hsa_circ_0079476,chr7:14758166-14797356,hg19,'-,NM_004080,Unknown,Unknown,Homo sapiens,MS data supporting,28281539
+circHP1BP3,None,hsa_circ_0010442,chr1:21080550-21094157,hg19,'-,NM_016287,Unknown,Unknown,Homo sapiens,MS data supporting,28281539
+circTOR1B,None,hsa_circ_0089052,chr9:132569466-132569642,hg19,'+,NM_014506,Unknown,Unknown,Homo sapiens,MS data supporting,28281539
+circUSP9Y,None,hsa_circ_0092238,chrY:14832521-14870572,hg19,'+,NM_004654,Unknown,Unknown,Homo sapiens,MS data supporting,28281539
+circOAZ1,None,hsa_circ_0048399,chr19:2271383-2273487,hg19,'+,NM_004152,Unknown,Unknown,Homo sapiens,MS data supporting,28281539
+circBRWD1,None,hsa_circ_0007589,chr21:40590077-40601362,hg19,'-,NM_033656,Unknown,Unknown,Homo sapiens,MS data supporting,28281539
+circERVMER34-1,None,hsa_circ_0069730,chr4:53609683-53612110,hg19,'-,NM_024534,Unknown,Unknown,Homo sapiens,MS data supporting,28281539
+circHEATR5A,None,hsa_circ_0031545,chr14:31806681-31817113,hg19,'-,NM_015473,Unknown,Unknown,Homo sapiens,MS data supporting,28281539
+circATXN2,None,hsa_circ_0028257,chr12:111923074-111957880,hg19,'-,NM_002973,Unknown,Unknown,Homo sapiens,MS data supporting,28281539
+circCIT,None,hsa_circ_0028697,chr12:120195174-120220441,hg19,'-,NM_001206999,Unknown,Unknown,Homo sapiens,MS data supporting,28281539
+circKDM1A,None,hsa_circ_0010803,chr1:23370919-23380332,hg19,'+,NM_001009999,Unknown,Unknown,Homo sapiens,MS data supporting,28281539
+circRtn4,None,mmu_circ_0000250,chr11:29705534-29708770,mm10,'+,NM_194051,ATG,INF,Mus musculus/N2a cell,Antibody detection; MS data supporting,31406268
+CircFAM188B,None,None,chr2:1000287-1001591,galGal5,'+,ENSGALT00000008333,ATG,103aa,Gallus_gallus/muscle,Exogenous tagging,33240871
+scRYMV,None,None,AF039909.1:1-220,"""Rice yellow mottle virus satellite, complete genome""",None,None,ATG,227aa,Rice yellow mottle virus (sobemovirus)/E. coli,Antibody detection; MS data supporting,25253891
+circCOL6A3,None,hsa_circ_0006401,chr2:238242092-238245175,hg19,'-,NM_004369,ATG,198aa,Homo sapiens/CRC cells,Exogenous tagging; Antibody detection,10.21203/rs.3.rs-97861/v0
+circPCMTD1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Homo sapiens/K562 and LAMA84 leukemia cell lines,Antibody detection,10.1182/blood-2019-126222
+TC-hsa-CLSTN1_0036,None,None,chr1:9755113-9773394,hg38,'-,Unknown,NTG;ATG,102;25,Homo sapiens,MS data supporting,33074314
+TC-hsa-GNB1_0007,None,None,chr1:1789052-1790433,hg38,'-,Unknown,NTG;ATG;ATG,21;132;32,Homo sapiens,MS data supporting,33074314
+TC-hsa-MACF1_0262,None,None,chr1:39422421-39430736,hg38,'+,Unknown,ATG,410,Homo sapiens,MS data supporting,33074314
+TC-hsa-MACF1_0270,None,None,chr1:39427454-39455097,hg38,'+,Unknown,ATG,1324;1643,Homo sapiens,MS data supporting,33074314
+TC-hsa-FUBP1_0023,None,None,chr1:77955254-77960495,hg38,'-,Unknown,ATG,196;133,Homo sapiens,MS data supporting,33074314
+TC-hsa-CSDE1_0062,None,None,chr1:114732603-114738072,hg38,'-,Unknown,ATG,196,Homo sapiens,MS data supporting,33074314
+TC-hsa-ATP1A1_0006,None,None,chr1:116384041-116388244,hg38,'+,Unknown,NTG;ATG,30;157,Homo sapiens,MS data supporting,33074314
+TC-hsa-DCAF6_0017,None,None,chr1:167966628-167993440,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-DCAF6_0024,None,None,chr1:167974829-167993440,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ATP2B4_0034,None,None,chr1:203713164-203727571,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-NMNAT2_0024,None,None,chr1:183293704-183418281,hg38,'-,Unknown,ATG,36;63,Homo sapiens,MS data supporting,33074314
+TC-hsa-NFASC_0002,None,None,chr1:204950556-204997406,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-DNAH14_0320,None,None,chr1:225374687-225381579,hg38,'+,Unknown,NTG;ATG,187;137,Homo sapiens,MS data supporting,33074314
+TC-hsa-ACTN2_0032,None,None,chr1:236739427-236744678,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-HNRNPU_0066,None,None,chr1:244862618-244863824,hg38,'-,Unknown,ATG;NTG,76;91,Homo sapiens,MS data supporting,33074314
+TC-hsa-ADARB2_0008,None,None,chr10:1363027-1363917,hg38,'-,Unknown,NTG;ATG,546;187,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0031,None,None,chr10:20812768-20961779,hg38,'-,Unknown,ATG,122,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0033,None,None,chr10:20868663-20961779,hg38,'-,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0036,None,hsa_circ_0093305,chr10:20896957-20961779,hg38,'-,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0034,None,None,chr10:20880793-20961779,hg38,'-,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0039,None,None,chr10:20945337-20990674,hg38,'-,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0004,None,None,chr10:20787201-20812940,hg38,'-,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0035,None,None,chr10:20880793-21020201,hg38,'-,Unknown,NTG,60;32,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0037,None,None,chr10:20940952-20961779,hg38,'-,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0038,None,hsa_circ_0093306,chr10:20945337-20961779,hg38,'-,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0040,None,None,chr10:20945337-21020201,hg38,'-,Unknown,NTG,60;32,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0041,None,None,chr10:20945337-21020663,hg38,'-,Unknown,NTG,60;32,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0042,None,hsa_circ_0093307,chr10:20957730-20961779,hg38,'-,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0043,None,None,chr10:20957730-21020201,hg38,'-,Unknown,NTG,60;32,Homo sapiens,MS data supporting,33074314
+TC-hsa-NEBL_0044,None,None,chr10:20957730-21155899,hg38,'-,Unknown,NTG,60;32,Homo sapiens,MS data supporting,33074314
+TC-hsa-ANK3_0109,None,None,chr10:60138963-60264020,hg38,'-,Unknown,ATG,39;669,Homo sapiens,MS data supporting,33074314
+TC-hsa-CAMK2G_0029,None,None,chr10:73828088-73848082,hg38,'-,Unknown,ATG;NTG,198;38,Homo sapiens,MS data supporting,33074314
+TC-hsa-VCL_0042,None,None,chr10:74094270-74105353,hg38,'+,Unknown,ATG,361;54,Homo sapiens,MS data supporting,33074314
+TC-hsa-XPNPEP1_0014,None,hsa_circ_0020001,chr10:109907690-109915099,hg38,'-,Unknown,ATG,89,Homo sapiens,MS data supporting,33074314
+TC-hsa-AP2A2_0004,None,None,chr11:946832-985582,hg38,'+,Unknown,ATG,302;246,Homo sapiens,MS data supporting,33074314
+TC-hsa-AP2A2_0020,None,None,chr11:977094-994245,hg38,'+,Unknown,ATG,532,Homo sapiens,MS data supporting,33074314
+TC-hsa-AP2A2_0007,None,None,chr11:959436-1000684,hg38,'+,Unknown,NTG;ATG,753;633,Homo sapiens,MS data supporting,33074314
+TC-hsa-COPB1_0041,None,None,chr11:14474494-14477015,hg38,'-,Unknown,ATG;NTG,107;188,Homo sapiens,MS data supporting,33074314
+TC-hsa-SLC1A2_0017,None,None,chr11:35280866-35301645,hg38,'-,Unknown,NTG;ATG,63;249,Homo sapiens,MS data supporting,33074314
+TC-hsa-CLPB_0010,None,None,chr11:72354307-72380384,hg38,'-,Unknown,ATG,151;20,Homo sapiens,MS data supporting,33074314
+TC-hsa-CLPB_0011,None,hsa_circ_0023446,chr11:72358879-72380384,hg38,'-,Unknown,ATG,151;20,Homo sapiens,MS data supporting,33074314
+TC-hsa-ACAT1_0016,None,None,chr11:108131906-108144047,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-SIDT2_0003,None,None,chr11:117181806-117193963,hg38,'+,Unknown,NTG;ATG;NTG,134;645;728,Homo sapiens,MS data supporting,33074314
+TC-hsa-CHEK1_0007,None,None,chr11:125633267-125655347,hg38,'+,Unknown,ATG,310,Homo sapiens,MS data supporting,33074314
+TC-hsa-GAPDH_0001,None,None,chr12:6534809-6536790,hg38,'+,Unknown,ATG,162;109,Homo sapiens,MS data supporting,33074314
+TC-hsa-TPI1_0003,None,None,chr12:6868865-6869132,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-PLEKHA5_0095,None,None,chr12:19283279-19343434,hg38,'+,Unknown,ATG,440,Homo sapiens,MS data supporting,33074314
+TC-hsa-CAPRIN2_0015,None,None,chr12:30713784-30731510,hg38,'-,Unknown,ATG;NTG,64;45,Homo sapiens,MS data supporting,33074314
+TC-hsa-KIF21A_0068,None,None,chr12:39351776-39368032,hg38,'-,Unknown,ATG,143,Homo sapiens,MS data supporting,33074314
+TC-hsa-ATP5B_0023,None,None,chr12:56643848-56645186,hg38,'-,Unknown,ATG,95;128,Homo sapiens,MS data supporting,33074314
+TC-hsa-ATP2B1_0032,None,None,chr12:89609936-89642355,hg38,'-,Unknown,ATG,369,Homo sapiens,MS data supporting,33074314
+TC-hsa-FDX1_0004,None,None,chr11:110434939-110457047,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-FDX1_0009,None,None,chr11:110435833-110457047,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-FDX1_0010,None,None,chr11:110435833-110459219,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-HECTD4_0215,None,None,chr12:112283109-112313147,hg38,'-,Unknown,NTG;ATG,67;123,Homo sapiens,MS data supporting,33074314
+TC-hsa-RASAL1_0005,None,None,chr12:113105713-113107241,hg38,'-,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-HECTD4_0181,None,None,chr12:112265174-112274960,hg38,'-,Unknown,ATG,77,Homo sapiens,MS data supporting,33074314
+TC-hsa-SPG20_0003,None,None,chr13:36312144-36335121,hg38,'-,Unknown,NTG,169,Homo sapiens,MS data supporting,33074314
+TC-hsa-SPG20_0004,None,None,chr13:36312144-36335832,hg38,'-,Unknown,ATG,419,Homo sapiens,MS data supporting,33074314
+TC-hsa-LRRC63_0011,None,None,chr13:46234191-46257273,hg38,'+,Unknown,NTG;ATG,141;103,Homo sapiens,MS data supporting,33074314
+TC-hsa-HNRNPC_0015,None,None,chr14:21228866-21231554,hg38,'-,Unknown,NTG;ATG,65;52,Homo sapiens,MS data supporting,33074314
+TC-hsa-ARHGEF7_0001,None,None,chr13:111153904-111210002,hg38,'+,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ARHGEF7_0007,None,hsa_circ_0030913,chr13:111205288-111210002,hg38,'+,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ARHGEF7_0005,None,None,chr13:111161291-111210002,hg38,'+,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-HNRNPC_0012,None,None,chr14:21226244-21232479,hg38,'-,Unknown,NTG;ATG,65;52,Homo sapiens,MS data supporting,33074314
+TC-hsa-HNRNPC_0018,None,None,chr14:21230158-21231222,hg38,'-,Unknown,NTG;ATG,65;52,Homo sapiens,MS data supporting,33074314
+TC-hsa-HNRNPC_0016,None,None,chr14:21229007-21231253,hg38,'-,Unknown,NTG;ATG,65;52,Homo sapiens,MS data supporting,33074314
+TC-hsa-FBN1_0036,None,None,chr15:48472550-48494254,hg38,'-,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-TPM1_0007,None,None,chr15:63050046-63062645,hg38,'+,Unknown,ATG,132,Homo sapiens,MS data supporting,33074314
+TC-hsa-TPM1_0012,None,None,chr15:63056984-63062645,hg38,'+,Unknown,ATG,132,Homo sapiens,MS data supporting,33074314
+TC-hsa-PKM_0003,None,None,chr15:72202767-72205195,hg38,'-,Unknown,ATG,48,Homo sapiens,MS data supporting,33074314
+TC-hsa-TLN2_0026,None,None,chr15:62589686-62686796,hg38,'+,Unknown,NTG;ATG;ATG,39;389;49,Homo sapiens,MS data supporting,33074314
+TC-hsa-HERC1_0045,None,None,chr15:63638710-63666150,hg38,'-,Unknown,ATG,215;27,Homo sapiens,MS data supporting,33074314
+TC-hsa-PRSS22_0001,None,None,chr16:2853984-2856133,hg38,'-,Unknown,NTG,123;89;41,Homo sapiens,MS data supporting,33074314
+TC-hsa-PHKB_0097,None,hsa_circ_0039283,chr16:47610825-47669417,hg38,'+,Unknown,ATG,397,Homo sapiens,MS data supporting,33074314
+TC-hsa-PHKB_0065,None,None,chr16:47515520-47689175,hg38,'+,Unknown,ATG,738;66,Homo sapiens,MS data supporting,33074314
+TC-hsa-CYB5B_0006,None,None,chr16:69441534-69448144,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-CYB5B_0007,None,hsa_circ_0105830,chr16:69441571-69447278,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-CYB5B_0011,None,None,chr16:69447149-69448753,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-CYB5B_0005,None,None,chr16:69441534-69447278,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-CYB5B_0008,None,None,chr16:69441571-69448144,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-CYB5B_0010,hsa_circCYB5B_001,None,chr16:69447149-69448144,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-CRK_0002,None,None,chr17:1423577-1437000,hg38,'-,Unknown,ATG;NTG,76;35,Homo sapiens,MS data supporting,33074314
+TC-hsa-RP11-566K11_0003,None,hsa_circ_0106156,chr16:89934760-89934973,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-PRPF8_0009,None,None,chr17:1656565-1657177,hg38,'-,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-AP2B1_0005,None,None,chr17:35596207-35682824,hg38,'+,Unknown,ATG,769,Homo sapiens,MS data supporting,33074314
+TC-hsa-MED24_0006,None,None,chr17:40029747-40031216,hg38,'-,Unknown,ATG;NTG,84;57,Homo sapiens,MS data supporting,33074314
+TC-hsa-COL1A1_0059,None,None,chr17:50195231-50196528,hg38,'-,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ACOX1_0026,None,None,chr17:75950773-75957566,hg38,'-,Unknown,NTG,30;182,Homo sapiens,MS data supporting,33074314
+TC-hsa-ACTG1_0007,None,None,chr17:81511902-81512142,hg38,'-,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-EPB41L3_0028,None,None,chr18:5406764-5410619,hg38,'-,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-EPB41L3_0033,None,hsa_circ_0108665,chr18:5406776-5410619,hg38,'-,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-C3_0036,None,None,chr19:6694430-6694634,hg38,'-,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-LONP1_0006,None,None,chr19:5703640-5705992,hg38,'-,Unknown,ATG,39,Homo sapiens,MS data supporting,33074314
+TC-hsa-LONP1_0007,None,None,chr19:5705771-5705992,hg38,'-,Unknown,ATG,39,Homo sapiens,MS data supporting,33074314
+TC-hsa-PTPRS_0035,None,None,chr19:5258016-5265196,hg38,'-,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-SEMA6B_0004,None,None,chr19:4552421-4558489,hg38,'-,Unknown,ATG;NTG;NTG,157;110;29,Homo sapiens,MS data supporting,33074314
+TC-hsa-CALR_0009,None,None,chr19:12940242-12940887,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ZNF649_0002,None,None,chr19:51896471-51900294,hg38,'-,Unknown,NTG;ATG,180;26,Homo sapiens,MS data supporting,33074314
+TC-hsa-GRHL1_0018,None,None,chr2:9990695-9993244,hg38,'+,Unknown,ATG,124;71,Homo sapiens,MS data supporting,33074314
+TC-hsa-RAB10_0016,None,None,chr2:26127166-26127951,hg38,'+,Unknown,ATG;NTG,63;70,Homo sapiens,MS data supporting,33074314
+TC-hsa-USP34_0308,None,None,chr2:61311539-61325457,hg38,'-,Unknown,ATG;NTG,45;58,Homo sapiens,MS data supporting,33074314
+TC-hsa-ACTG2_0009,None,None,chr2:73913484-73914871,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-CLASP1_0108,None,None,chr2:121425138-121430177,hg38,'-,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-PKP4_0070,None,None,chr2:158661332-158666563,hg38,'+,Unknown,ATG,219,Homo sapiens,MS data supporting,33074314
+TC-hsa-SPAG16_0048,None,None,chr2:213340162-213342888,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-FN1_0064,None,hsa_circ_0058113,chr2:215391631-215394719,hg38,'-,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-SPAG16_0049,None,None,chr2:213340162-213343897,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-IQCA1_0010,None,None,chr2:236391975-236419237,hg38,'-,Unknown,ATG,123,Homo sapiens,MS data supporting,33074314
+TC-hsa-COL6A3_0016,None,None,chr2:237340569-237357839,hg38,'-,Unknown,ATG,241;36,Homo sapiens,MS data supporting,33074314
+TC-hsa-COL6A3_0065,None,None,chr2:237377186-237380968,hg38,'-,Unknown,ATG,270;67,Homo sapiens,MS data supporting,33074314
+TC-hsa-FN1_0063,None,None,chr2:215391631-215394636,hg38,'-,Unknown,NTG;ATG,186;51,Homo sapiens,MS data supporting,33074314
+TC-hsa-COL6A3_0066,None,None,chr2:237377186-237381139,hg38,'-,Unknown,ATG;NTG,327;78,Homo sapiens,MS data supporting,33074314
+TC-hsa-ARMC9_0076,None,None,chr2:231272954-231296253,hg38,'+,Unknown,ATG,73;193,Homo sapiens,MS data supporting,33074314
+TC-hsa-SEPT2_0033,None,hsa_circ_0119497,chr2:241335125-241346249,hg38,'+,Unknown,ATG,279;142,Homo sapiens,MS data supporting,33074314
+TC-hsa-COL6A1_0007,None,None,chr21:45986631-45992072,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-PCNT_0072,None,None,chr21:46431528-46442573,hg38,'+,Unknown,ATG,480;38,Homo sapiens,MS data supporting,33074314
+TC-hsa-TRIOBP_0019,None,None,chr22:37769032-37769375,hg38,'+,Unknown,NTG;ATG,145;68,Homo sapiens,MS data supporting,33074314
+TC-hsa-SBF1_0025,None,None,chr22:50467589-50467885,hg38,'-,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-SMARCC1_0134,None,hsa_circ_0065279,chr3:47678197-47772936,hg38,'-,Unknown,ATG,168;50,Homo sapiens,MS data supporting,33074314
+TC-hsa-FLNB_0076,None,None,chr3:58153602-58153749,hg38,'+,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ADD1_0055,None,hsa_circ_0126132,chr4:2909338-2926675,hg38,'+,Unknown,NTG,94;57,Homo sapiens,MS data supporting,33074314
+TC-hsa-SLIT2_0055,None,None,chr4:20523759-20548559,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-CNGA1_0003,None,None,chr4:47951352-47952703,hg38,'-,Unknown,ATG,150;141,Homo sapiens,MS data supporting,33074314
+TC-hsa-UCHL1_0002,None,None,chr4:41260724-41261800,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ALB_0028,None,None,chr4:73408752-73417588,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ALB_0010,None,None,chr4:73405126-73406722,hg38,'+,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ALB_0032,None,None,chr4:73410311-73412125,hg38,'+,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ALB_0057,None,None,chr4:73418087-73419639,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ALB_0024,None,None,chr4:73408752-73412044,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-PDLIM5_0024,None,None,chr4:94573350-94585737,hg38,'+,Unknown,NTG,70,Homo sapiens,MS data supporting,33074314
+TC-hsa-ANK2_0151,None,None,chr4:113311254-113330470,hg38,'+,Unknown,NTG;ATG;ATG,211;63;201,Homo sapiens,MS data supporting,33074314
+TC-hsa-ANK2_0099,None,None,chr4:113274451-113318620,hg38,'+,Unknown,ATG,510,Homo sapiens,MS data supporting,33074314
+TC-hsa-ANK2_0154,None,hsa_circ_0125088,chr4:113311254-113339322,hg38,'+,Unknown,ATG,473;457,Homo sapiens,MS data supporting,33074314
+TC-hsa-ANK2_0166,None,None,chr4:113317721-113323794,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ANK2_0150,None,None,chr4:113311254-113323794,hg38,'+,Unknown,NTG;ATG,134;126,Homo sapiens,MS data supporting,33074314
+TC-hsa-ETFDH_0012,None,None,chr4:158680466-158703591,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ETFDH_0006,None,None,chr4:158679289-158703591,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-FGB_0027,None,None,chr4:154567592-154568494,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-FGG_0012,None,None,chr4:154609629-154612113,hg38,'-,Unknown,ATG,88;26,Homo sapiens,MS data supporting,33074314
+TC-hsa-RAPGEF6_0057,None,hsa_circ_0127887,chr5:131461704-131548190,hg38,'-,Unknown,ATG,176;134,Homo sapiens,MS data supporting,33074314
+TC-hsa-KIFC1_0005,None,None,chr6:33403728-33404129,hg38,'+,Unknown,NTG;ATG,195;148,Homo sapiens,MS data supporting,33074314
+TC-hsa-SNAP91_0069,None,None,chr6:83658998-83665581,hg38,'-,Unknown,ATG,42;57,Homo sapiens,MS data supporting,33074314
+TC-hsa-ORC3_0054,None,None,chr6:87653115-87664859,hg38,'+,Unknown,ATG,194,Homo sapiens,MS data supporting,33074314
+TC-hsa-GJA1_0003,None,None,chr6:121446893-121447189,hg38,'+,Unknown,NTG;ATG,219;98,Homo sapiens,MS data supporting,33074314
+TC-hsa-EPB41L2_0004,None,hsa_circ_0077834,chr6:130858130-130867581,hg38,'-,Unknown,ATG,65;69,Homo sapiens,MS data supporting,33074314
+TC-hsa-MLLT4_0034,None,None,chr6:167870382-167911162,hg38,'+,Unknown,ATG,390,Homo sapiens,MS data supporting,33074314
+TC-hsa-MLLT4_0102,None,None,chr6:167912625-167918933,hg38,'+,Unknown,ATG;NTG,288;43,Homo sapiens,MS data supporting,33074314
+TC-hsa-MLLT4_0059,None,hsa_circ_0078678,chr6:167875334-167902386,hg38,'+,Unknown,NTG;ATG;NTG,29;330;367,Homo sapiens,MS data supporting,33074314
+TC-hsa-MLLT4_0106,None,hsa_circ_0131336,chr6:167914167-167918933,hg38,'+,Unknown,ATG;NTG,288;43,Homo sapiens,MS data supporting,33074314
+TC-hsa-COL1A2_0086,None,None,chr7:94413699-94418526,hg38,'+,Unknown,ATG;NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-COL1A2_0096,None,None,chr7:94414240-94420436,hg38,'+,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-AZGP1_0001,None,None,chr7:99966866-99967167,hg38,'-,Unknown,NTG,35;61,Homo sapiens,MS data supporting,33074314
+TC-hsa-LRGUK_0055,None,hsa_circ_0133386,chr7:134174555-134221918,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-DPYSL2_0016,None,None,chr8:26624142-26624307,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-ASAP1_0009,None,None,chr8:130057953-130126089,hg38,'-,Unknown,ATG,65,Homo sapiens,MS data supporting,33074314
+TC-hsa-RIMS2_0041,None,None,chr8:103885303-103886223,hg38,'+,Unknown,ATG,332,Homo sapiens,MS data supporting,33074314
+TC-hsa-FOCAD_0112,None,None,chr9:20819814-20916937,hg38,'+,Unknown,ATG,482;472,Homo sapiens,MS data supporting,33074314
+TC-hsa-GRHPR_0006,None,hsa_circ_0087062,chr9:37424844-37432138,hg38,'+,Unknown,NTG;ATG,279;225,Homo sapiens,MS data supporting,33074314
+TC-hsa-GSN_0014,None,None,chr9:121313964-121321294,hg38,'+,Unknown,ATG;NTG;ATG,152;226;191,Homo sapiens,MS data supporting,33074314
+TC-hsa-ALDOB_0009,None,None,chr9:101429766-101429934,hg38,'-,Unknown,NTG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-RABGAP1_0028,None,None,chr9:122957010-123090385,hg38,'+,Unknown,ATG,881,Homo sapiens,MS data supporting,33074314
+TC-hsa-STXBP1_0055,None,None,chr9:127680156-127682550,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-SPTAN1_0082,None,None,chr9:128594174-128627942,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-MXRA5_0002,None,None,chrX:3309669-3311624,hg38,'-,Unknown,NTG,652;20,Homo sapiens,MS data supporting,33074314
+TC-hsa-UBA1_0019,hsa_circUBA1_001,hsa_circ_0140338,chrX:47212423-47214637,hg38,'+,Unknown,NTG;ATG,203;171,Homo sapiens,MS data supporting,33074314
+TC-hsa-USP9X_0058,None,hsa_circ_0140283,chrX:41144521-41186642,hg38,'+,Unknown,ATG,INF,Homo sapiens,MS data supporting,33074314
+TC-hsa-OCRL_0024,None,hsa_circ_0091490,chrX:129558839-129569399,hg38,'+,Unknown,ATG;NTG,332;359,Homo sapiens,MS data supporting,33074314
