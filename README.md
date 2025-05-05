@@ -81,3 +81,9 @@ deepSRAMP/
 - Visualize SHAP feature importance via `shap_analysis.py`.
 - Analyze positive and negative samples separately.
 - Evaluate using metrics such as AUC, accuracy, and F1 score.
+
+## Requirements
+
+Python ≥ 3.7
+R ≥ 4.0
+PyTorch, NumPy, pandas, SHAP, Bioconductor packages
